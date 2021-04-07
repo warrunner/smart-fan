@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "518342734632",
+    "project_id": "smart-fan-b5f78",
+    "storage_bucket": "smart-fan-b5f78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518342734632:android:3da3bf90f92d70f8c4961d",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518342734632-56p98ct6capd6359gd5gv4hc80gno1db.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3NL7GK80Cii6-aMMpl2VsfS9p5v7T0r4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518342734632-56p98ct6capd6359gd5gv4hc80gno1db.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
