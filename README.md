@@ -13,3 +13,6 @@ Smart control and personalized notifications
 
 Smart suggestions based on the room conditions.
 
+## Project Details
+Refer to the PROJECT REPORT.pdf under smart_fan folder
+
