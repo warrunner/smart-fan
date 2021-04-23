@@ -1,16 +1,15 @@
-# flutter_app
+# Smart Fan
+Smart Fan Project
 
-A new Flutter application.
+# INTRODUCTION
+In this project, a temperature sensor and humidity sensor are used for monitoring temperature and humidity. The NodeMCU microcontroller reads the sensor values and controls the fan speed in AUTO mode. In MANUAL mode, the user can set the speed of his choice. An app is developed for better connectivity and not missing any updates. A Realtime database from Google Firebase is used for updating and reading the parameters. All the commands are processed in Real Time with no delay. 
+ 
+The sensor data information is passed to the database by the controller and the app simultaneously to the two roots dedicated to each. The ESC (Electronic Speed Controller) is used for the speed control of BLDC motors.
 
-## Getting Started
+# OBJECTIVES
+Automatic speed control with the variations in the temperature and humidity of the surroundings.
 
-This project is a starting point for a Flutter application.
+Smart control and personalized notifications
 
-A few resources to get you started if this is your first Flutter project:
+Smart suggestions based on the room conditions.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
